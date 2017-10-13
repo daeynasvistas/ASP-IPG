@@ -1,0 +1,10 @@
+C:\git\IPG\WebSite\WebSite\bin\Debug\netcoreapp1.1\WebSite.deps.json
+C:\git\IPG\WebSite\WebSite\bin\Debug\netcoreapp1.1\WebSite.runtimeconfig.json
+C:\git\IPG\WebSite\WebSite\bin\Debug\netcoreapp1.1\WebSite.runtimeconfig.dev.json
+C:\git\IPG\WebSite\WebSite\bin\Debug\netcoreapp1.1\WebSite.dll
+C:\git\IPG\WebSite\WebSite\bin\Debug\netcoreapp1.1\WebSite.pdb
+C:\git\IPG\WebSite\WebSite\obj\Debug\netcoreapp1.1\WebSite.csprojResolveAssemblyReference.cache
+C:\git\IPG\WebSite\WebSite\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\git\IPG\WebSite\WebSite\obj\Debug\netcoreapp1.1\WebSite.AssemblyInfo.cs
+C:\git\IPG\WebSite\WebSite\obj\Debug\netcoreapp1.1\WebSite.dll
+C:\git\IPG\WebSite\WebSite\obj\Debug\netcoreapp1.1\WebSite.pdb
